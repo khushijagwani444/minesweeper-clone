@@ -1,4 +1,3 @@
-// Logic
 
 export const TILE_STATUSES = {
   HIDDEN: "hidden",
