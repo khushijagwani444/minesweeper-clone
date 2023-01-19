@@ -1,4 +1,3 @@
-// Display/UI
 
 import {
   TILE_STATUSES,
